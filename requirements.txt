@@ -1,0 +1,8 @@
+sqlite3
+pandas
+python-docx
+PyMuPDF
+ollama
+smtplib
+email
+python-dotenv
